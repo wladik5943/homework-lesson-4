@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58452c42-068c-46ef-8ebf-d4ebe8da52e6" name="Changes" comment="task 1">
-      <change afterPath="$PROJECT_DIR$/src/task2.java" afterDir="false" />
+    <list default="true" id="58452c42-068c-46ef-8ebf-d4ebe8da52e6" name="Changes" comment="task2">
+      <change afterPath="$PROJECT_DIR$/src/task3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.task2">
+  <component name="RunManager" selected="Application.task3">
     <configuration name="task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task1" />
       <module name="homework-lesson-4" />
@@ -65,8 +65,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task3" />
+      <module name="homework-lesson-4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.task3" />
         <item itemvalue="Application.task2" />
         <item itemvalue="Application.task1" />
       </list>
@@ -102,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699647772320</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="task2">
+      <created>1699648193606</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699648193606</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +147,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="main" />
     <MESSAGE value="task 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 1" />
+    <MESSAGE value="task2" />
+    <option name="LAST_COMMIT_MESSAGE" value="task2" />
   </component>
 </project>
