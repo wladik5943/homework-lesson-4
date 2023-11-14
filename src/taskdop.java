@@ -13,6 +13,10 @@ public class taskdop {
         for (int i = 0; i < arr.length; i++) {
             System.out.print("a[" + i + "]= ");
             arr[i] = scanner.nextInt();
+            if(arr[i]>9){
+                System.out.println("введено недопустимое значение");
+                i--;
+            }
         }
         System.out.println(Arrays.toString(arr));
 
